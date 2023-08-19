@@ -1,0 +1,219 @@
+#main-head{
+    font-style:italic;
+    height: calc(100vh - 54px);
+    background-image: ("https://th.bing.com/th/id/R.26f265cc0b5910c40020a3ee27f46380?rik=TYtb0bnfQ6LTCQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-PwtRgPjvSKA%2fUD9do8JlAUI%2fAAAAAAAAIoU%2f1e9O1Ii3WCw%2fs1600%2fOuter%2bSpace%2bWallpapers%2b2.jpg&ehk=ZDg%2bkfiCU1AHZCDdw4AkD4G8pTOceaUYxOIYZKkccvQ%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+}
+body{
+    background-image: https://in.images.search.yahoo.com/images/view;_ylt=Awr1TaM0yNxkdx8nX.K9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzE5ZjhmYzY1ZTFiYTc0MTMxMWIzYzhmMjI1YzNhMTBjBGdwb3MDMQRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Ddad%2Bof%2Bplanets%26type%3DE210IN885G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D1&w=1000&h=780&imgurl=1.bp.blogspot.com%2F-Y9S_lHI4jKk%2FXoWm8D-dvfI%2FAAAAAAAAAA8%2F-4PnBYi3WDYHWrYuLStCw1VBAUGkdGPVwCLcBGAsYHQ%2Fs1600%2Fsolar-system-model-planets-orbit-and-sun-vector-24225209.jpg&rurl=https%3A%2F%2Fwalkwithcosmos.blogspot.com%2F2020%2F03%2Fsolar-system-our-and-we-are-back-with.html&size=95.6KB&p=dad+of+planets&oid=19f8fc65e1ba741311b3c8f225c3a10c&fr2=piv-web&fr=mcafee&tt=Solar+System-+Our+Family&b=0&ni=21&no=1&ts=&tab=organic&sigr=A7jjWd_H2ZOs&sigb=nS.2tSv3DTyQ&sigi=fm9vWASPfXtW&sigt=UZWlVhJ43mfI&.crumb=leyBiAT0aIo&fr=mcafee&fr2=piv-web&type=E210IN885G0;
+
+}
+.pagesection{
+    padding: 6rem;
+    lighting-color: rgb(249, 248, 248);
+}
+ 
+    
+p2{
+    font-size: 16px;
+    
+    width:60%;
+    border: 1px solid rgb(156, 4, 4);
+    height: 200px; }
+    img{
+    padding: 10px;
+    float: left; }
+    #similar{
+        float:right;
+        clear:both;
+        margin-top:10px;
+        background: white;
+        border-radius:10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        width:560px;
+    }
+    #similar .content{
+        padding:30px;
+    }
+    #similar .similar-item{
+        display:inline-block;
+        width:30%;
+        text-align:center;
+        margin-right:10px;
+    }
+    .similar-item img{
+        display:block;
+        margin:5px auto;
+        max-width:88px;
+    }
+    .similar-item a.similar-title{
+        display:block;
+        height:30px;
+    }
+    .sp #similar{
+    display:none;
+    }
+    #myVideo {
+        position: absolute;
+        right: auto;
+        bottom: auto;
+        min-width: 50%;
+        min-height: 5%;
+      }
+      
+      /* Add some content at the bottom of the video/page */
+      .content {
+        position: absolute;
+        bottom: auto;
+        background: rgba(0, 0, 0, 0.5);
+        color: #f1f1f1;
+        width: auto;
+        padding: 20px;
+      }
+      
+
+      
+p{
+    font-size: 16px;
+    
+    width:60%;
+}
+    img{
+    padding: 10px;
+    float: left; }
+    #similar{
+        float:right;
+        clear:both;
+        margin-top:10px;
+        background: white;
+        border-radius:10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        width:560px;
+    }
+    #similar .content{
+        padding:30px;
+    }
+    #similar .similar-item{
+        display:inline-block;
+        width:30%;
+        text-align:center;
+        margin-right:10px;
+    }
+    .similar-item img{
+        display:block;
+        margin:5px auto;
+        max-width:88px;
+    }
+    .similar-item a.similar-title{
+        display:block;
+        height:30px;
+    }
+    .sp #similar{
+    display:none;
+    }
+     
+        #similar1 .content{
+            padding:20px;
+        }
+        #similar1 .similar-item{
+            display:inline-block;
+            width:30%;
+            text-align:center;
+            margin-right:10px;
+        }
+        .similar1-item img{
+            display:block;
+            margin:5px auto;
+            max-width:88px;
+        }
+        .similar1-item a.similar-title{
+            display:block;
+            height:30px;
+        }
+        .sp #similar1{
+        display:none;
+        }
+
+body {
+    font-family: Metropolis,Helvetica,Arial,sans-serif;
+    font-size: 100%;
+    line-height: 1.5;
+    min-height: 100%;
+    position: relative;
+    background-color: transparent
+}
+
+body.noscroll {
+    overflow-y: hidden
+}
+
+@media (min-width: 48px) {
+    body {
+        font-size:98%
+    }
+}
+
+@media (min-width: 769px), print {
+    body {
+        font-size:100%
+    }
+}
+
+@media (min-width: 1024px), print {
+    body {
+        font-size:102%
+    }
+}
+
+@media (min-width: 1200px) {
+    body {
+        font-size:104%
+    }
+}
+
+@media (min-width: 1700px) {
+    body {
+        font-size:107%
+    }
+}
+
+h1,h2,h3,h4,h5 {
+    line-height: 1.2
+}
+
+h1 {
+    letter-spacing: -.04em
+}
+
+h2 {
+    letter-spacing: -.03em
+}
+
+h3 {
+    letter-spacing: -.02em
+}
+
+h4 {
+    letter-spacing: -.01em
+}
+
+h1,h2,h3,h4,h5 {
+    margin: 0
+}
+
+img {
+    width: 100%
+}
+
+img,embed,object,video {
+    max-width: 100%
+}
+
+.jwplayer video {
+    max-width: none
+}
+
+     
+        
