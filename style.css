@@ -214,6 +214,7 @@ img,embed,object,video {
 .jwplayer video {
     max-width: none
 }
-
-     
+section{
+text-align: center;
+}
         
